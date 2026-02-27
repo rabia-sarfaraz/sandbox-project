@@ -1,0 +1,14 @@
+{
+  "name": "rabia-portfolio",
+  "version": "1.0.0",
+  "description": "Developer Portfolio Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "author": "Rabia Sarfaraz",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
